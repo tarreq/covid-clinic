@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'jazeera';
+    font-weight: normal;
+    font-style: normal;
+    src: url('./jazeera-font.ttf');
+  }
+
+  @font-face {
+    font-family: 'bbcsmall';
+    font-weight: normal;
+    font-style: normal;
+    src: url('./bbc-small.ttf');
+  }
